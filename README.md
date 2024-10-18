@@ -1,4 +1,8 @@
 # EndToEndMLOps
+<img width="1247" alt="Screenshot 2024-10-17 at 10 11 32 PM" src="https://github.com/user-attachments/assets/d8565286-bd54-43b2-9785-7f795fe3edf4">
+<img width="547" alt="Screenshot 2024-10-17 at 10 12 15 PM" src="https://github.com/user-attachments/assets/1aa7752c-9513-4d3e-bf6b-855158bb700e">
+
+
 
 from dagshub import get_repo_bucket_client
 # Get a boto3.client object
